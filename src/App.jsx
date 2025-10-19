@@ -248,8 +248,8 @@ export default function App() {
         </section>
 
         <footer className="mt-6 text-center text-sm text-gray-500">
-          <div>Архитектура: компоненты + хук для логики шифрования. Адаптивный дизайн (Tailwind CSS).</div>
-          <div className="mt-2">Инструкции по установке: создайте React-проект (Vite или Create React App), подключите Tailwind и поместите этот компонент в <code>src/App.jsx</code>.</div>
+          <div>Работу выполнил студент группы ИБ 2-24</div>
+          <div className="mt-2">Менчук Виталий Александрович</div>
         </footer>
       </div>
     </div>
